@@ -4,7 +4,7 @@ concurrency = 1
 workdir = "workdir"
 log_path = "log.txt"
 download_path = "downloads_folder"
-use_local_proxy = true
+use_local_proxy = false
 split = "test"
 save_path = "ssa.jsonl"
 
