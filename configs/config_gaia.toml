@@ -5,7 +5,7 @@ workdir = "workdir"
 log_path = "log.txt"
 download_path = "downloads_folder"
 use_local_proxy = false
-split = "test"
+split = "validation"
 save_path = "dra.jsonl"
 
 # Tool Config
